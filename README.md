@@ -13,6 +13,9 @@
 
 ## 푸터 추가 
 - footer.md 
+
+## 사이드바 추가 
+- SIDEBAR.md
 # Git 기초
 ---
 
