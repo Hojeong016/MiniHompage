@@ -1,3 +1,4 @@
+-  navigation.md 파일 추가
 
 # Git 기초
 ---
